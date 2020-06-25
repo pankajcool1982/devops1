@@ -1,4 +1,6 @@
 hello
+<<<<<<< HEAD
 lkadsjflkdsjfdslk
 lkjdslkfjd
-my name is khan
+good morning
+
